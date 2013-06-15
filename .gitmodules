@@ -1,0 +1,3 @@
+[submodule "js/core"]
+	path = js/core
+	url = git://github.com/cedmax/akase.git
